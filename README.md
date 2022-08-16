@@ -14,14 +14,11 @@ As part of my studies, I've developed a few areas special of interest, including
 
 <!-- languages -->
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Bash-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
 
 <!-- IaC tools -->
 ![](https://img.shields.io/badge/IaC-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IaC-Nix-informational?style=flat&logo=nix&logoColor=white&color=2bbc8a)
 
 <!-- infra -->
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=cloud&logoColor=white&color=2bbc8a)
