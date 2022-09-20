@@ -4,13 +4,13 @@ I'm a student training to become a DevOps engineer. My core skills are Linux, pr
 
 My main motivation to work in technology is fellowship with other problem solvers. I want to create and participate in an environment that engenders continual self-improvement. I also enjoy diving deep into technologies starting from their original design goals, in order to appreciate them from a philosophical perspective.
 
-As part of my studies, I've developed a few areas special of interest, including:
+As part of my studies, I've developed a few areas of special of interest, including:
 
-* Applying ideas from purely functional and data-flow programming paradigms to make large systems easier to understand
-* Declarative server management that is actually declarative
-* Seeing how far the idea of infrastructure as code can go
-* Securing SSH key management (using certificate authorities and bastion hosts)
-* Tracking live SSH sessions (using network tracking, eBPF, and the Linux audit subsystem)
+* Applying ideas from the purely functional and data-flow programming paradigms to make large systems easier to understand.
+* Declarative server management that is actually declarative.
+* Seeing how far the idea of infrastructure as code can go.
+* Securing SSH credentials using certificate authorities and bastion hosts.
+* Tracking live SSH sessions using network tracking, eBPF, and the Linux audit subsystem.
 
 <!-- languages -->
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
