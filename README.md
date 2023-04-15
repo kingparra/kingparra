@@ -19,7 +19,12 @@ As part of my studies, I've developed a few areas of special of interest, includ
 
 <!-- IaC tools -->
 ![](https://img.shields.io/badge/IaC-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IaC-Packer-informational?style=flat&logo=packer&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IaC-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)
 
 <!-- infra -->
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Infra-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Infra-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Infra-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Infra-Podman-informational?style=flat&logo=podman&logoColor=white&color=2bbc8a)
