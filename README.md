@@ -28,3 +28,8 @@ As part of my studies, I've developed a few areas of special of interest, includ
 ![](https://img.shields.io/badge/Infra-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Infra-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Infra-Podman-informational?style=flat&logo=podman&logoColor=white&color=2bbc8a)
+
+[Terraform Associate](https://www.credly.com/badges/55aeb17f-fb7f-48f9-a398-b78b3dd07123/public_url) ∿ 
+[Linux+](https://www.credly.com/badges/e53d2dd4-23a4-4fac-ab24-4ff764e91d43) ∿
+[RHCSA (expired, recert soon)](https://www.credly.com/badges/e6c7d9c2-7d24-4c4b-9905-174f5bb701c1/public_url) ∿
+more to come ...
