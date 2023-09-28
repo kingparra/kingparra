@@ -32,4 +32,4 @@ As part of my studies, I've developed a few areas of special of interest, includ
 [Terraform Associate](https://www.credly.com/badges/55aeb17f-fb7f-48f9-a398-b78b3dd07123/public_url) ∿ 
 [Linux+](https://www.credly.com/badges/e53d2dd4-23a4-4fac-ab24-4ff764e91d43) ∿
 [RHCSA (expired, recert soon)](https://www.credly.com/badges/e6c7d9c2-7d24-4c4b-9905-174f5bb701c1/public_url) ∿
-more to come ...
+[AWS SysOps Associate](https://www.credly.com/badges/1902f448-23c3-4015-b8a1-48e027c5b884/public_url) ∿
