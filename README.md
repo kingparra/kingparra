@@ -1,6 +1,6 @@
 # Chris King-Parra
 
-I'm a Cloud Engineer based in the Carrboro, NC area. My core skills are AWS, Linux, programming, problem analysis, written communication, and a methodical approach to learning.
+I'm an Engineer based in the Atlanta, GA area. My core skills are AWS, Linux, programming, problem analysis, written communication, and a methodical approach to learning.
 
 My main motivation to work in technology is fellowship with other problem solvers. I want to create and participate in an environment that engenders continual self-improvement. I also enjoy diving deep into technologies starting from their original design goals, in order to appreciate them from a philosophical perspective.
 
