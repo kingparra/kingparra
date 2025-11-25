@@ -1,4 +1,4 @@
-# Chris King-Parra
+# Evelyn King-Parra
 
 I'm an Engineer based in the NC Research Triangle area. My core skills are AWS, Linux, programming, problem analysis, written communication, and a methodical approach to learning.
 
